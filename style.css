@@ -1,0 +1,84 @@
+.font {
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 78px;
+}
+
+.imgtry {
+    width: 180px;
+    position: relative;
+    right: 55px;
+    bottom: 10px;
+
+}
+
+.imgtry1 {
+    width: 100px;
+    position: relative;
+    left: 60px;
+}
+
+.imgtry2 {
+    width: 100px;
+    position: relative;
+    left: 143px;
+    bottom: 20px;
+}
+
+.bg-color {
+    background-color: rgba(41, 96, 202, 1)
+}
+
+.color {
+    color: rgba(34, 84, 180, 1) !important;
+}
+
+.b-color {
+    background-color: rgba(237, 245, 254, 1);
+}
+
+.b1-color {
+    background-color: rgba(245, 245, 245, 1);
+}
+
+.black {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.botton {
+    background-color: rgba(32, 32, 32, 1);
+}
+
+.blue {
+    background-color: rgba(0, 85, 192, 1);
+    background-image: url(box.svg);
+}
+
+.font1 {
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 133.02%;
+
+}
+
+.font2 {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 138%;
+    left: 45px;
+    top: 102px;
+    color: #000000;
+}
+
+.white {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.arrow {
+    background-color: rgba(34, 84, 180, 1);
+}
+
+.fcolor {
+    color: #B5B5B5;
+}
